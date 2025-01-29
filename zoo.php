@@ -10,8 +10,7 @@ Zoo Feeding Schedule:
 
 $hour = date('G'); // Get current hour in 24-hour format
 
-// Debugging: Set a fixed time for testing (uncomment for manual testing)
-// $hour = 14; // Example: 2 PM
+
 
 echo '<p>
     The current hour is '.$hour.'.
